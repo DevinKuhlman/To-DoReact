@@ -1,0 +1,7 @@
+span.profile img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+    border: 2px solid rgb(0, 0, 0);
+}
